@@ -18,4 +18,3 @@
 ### 17. Erstellen Sie eine Funktion, um den Durchschnitt einer Liste von Noten zu berechnen.
 ### 18. Erstellen Sie ein einfaches Login-Formular und überprüfen Sie die Anmeldeinformationen.
 ### 19. Erstellen Sie ein Array von Obstsorten und suchen Sie nach einem bestimmten Obst in der Liste.
-### 20. Erstellen Sie eine Funktion, um die Fakultät einer Zahl zu berechnen.
