@@ -20,3 +20,4 @@
 ### 19. Erstellen Sie eine Funktion, um den Durchschnitt einer Liste von Noten zu berechnen.
 ### 20. Erstellen Sie ein einfaches Login-Formular und überprüfen Sie die Anmeldeinformationen.
 ### 21. Erstellen Sie ein Array von Obstsorten und suchen Sie nach einem bestimmten Obst in der Liste.
+### 22. Erstelle deine Funktion die Den Größten gemeinsamen Teiler von zwei Zufallszahlen Ermittelt.
